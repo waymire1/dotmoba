@@ -8,7 +8,7 @@ A moba where you dont pick a champion. You build one during the match.
 
 ## the idea
 
-Every player is a pixel. Your color tells everyone your role (top,
+Every player is a group of 16 or 32 pixels. Your color tells everyone your role (top,
 mid, bot, support, jungle) and enemy minion waves are colored by
 lane. The pixel is the hitbox. No animations getting in the way of
 hit registration. Think cs 1.6 hit reg but in a moba.
